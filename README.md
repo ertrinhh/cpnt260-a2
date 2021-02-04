@@ -27,7 +27,6 @@ I started on assignment two, by adding a page to my "about me" section. I added 
 
 Assignment three starts on the "gallery" section.
 
-- need to add in header
 - Social media links were added from the start in the footer section
 
 ## Honorable Mentions
@@ -44,3 +43,4 @@ Assignment three starts on the "gallery" section.
 <strong>Icon-Icons</strong>, [License here](https://icon-icons.com/terms-of-use/)
 
 1. [Card animation-FrankieDoodle CodePen](https://codepen.io/FrankieDoodie/pen/KxZVKz?editors=1100)
+2. [Slide in image caption](https://css-tricks.com/slide-in-image-captions/)
