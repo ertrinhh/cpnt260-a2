@@ -326,6 +326,19 @@ adjust accordingly if adding content*/
 }
 
 /* gallery starts here */
+.gallery-text {
+  text-align: center;
+  margin-top: 30px;
+}
+.gallery-text h3 {
+  font-size: 2em;
+
+  background-image: -webkit-linear-gradient(#4a00e0, #51b0d6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
 .image-gallery {
   display: flex;
   justify-content: center;
