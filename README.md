@@ -3,8 +3,8 @@
 # Erica Trinh
 
 - Github Links
-  - [GitHub Repo](https://github.com/ertrinhh/CPNT260-a1)
-  - [Github Pages](https://ertrinhh.github.io/CPNT260-a1/)
+  - [GitHub Repo](https://github.com/ertrinhh/CPNT260-a2)
+  - [Github Pages](https://ertrinhh.github.io/cpnt260-a2/)
 
 # Context
 
